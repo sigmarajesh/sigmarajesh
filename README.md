@@ -1,27 +1,21 @@
-- 👋 Hi, I’m @sigmarajesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 🏄‍♂️ Sigma Rajesh
 
+**`MERN Stack Developer`**
 
+MERN Stack Developer adept at crafting dynamic web solutions. Proficient in MongoDB, Express.js, React, and Node.js, with a keen focus on delivering seamless user experiences. Passionate about integrating cutting-edge technologies to build robust and efficient applications. Collaborative team member with a drive to continuously expand skills and stay at the forefront of modern web development trends.
 
+#
 
+<a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
+### 🚀 More about me
 
+- 🌱 I’m currently learning **Fullstack Development**
+- 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.vercel.app/" target="_blank">Portfolio</a>**
+- 📫 How to reach me: **karanchandekar431@gmail.com**
+- ⚡ Fun fact **I am deeply in love with Tailwind ❤️**
 
-
-
-
-
-
-
-
-
-
-
+---
 
 ## 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@co.der_rajesh)   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/rajesh_r89407?t=M6mcCA45BRJ1pRnASl-rMg&s=09)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/r-rajesh-53a4362b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
