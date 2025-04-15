@@ -18,7 +18,7 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 ---
 
 ## 🌐 Socials:
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@co.der_rajesh)   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/rajesh_r89407?t=M6mcCA45BRJ1pRnASl-rMg&s=09)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/r-rajesh-53a4362b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ku.mar_rajesh)   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/rajesh_r89407?t=M6mcCA45BRJ1pRnASl-rMg&s=09)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/r-rajesh-53a4362b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 ### 🧰 Tech Stack
 
@@ -70,10 +70,10 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 ### 🔗 Connect with me
 
-[![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-chandekar-a87263219)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karanchandekar1)
-[![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaranChandekar)
-[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanchandekar431@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-rajesh-53a4362b3/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajesh_r89407)
+[![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sigmarajesh)
+[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshrangeela2005rr@gmail.com)
 
 #
 
@@ -86,7 +86,7 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 # ⚡Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sigmarajesh&bg_color=000000&color=ffffff&line=00ffff&point=00a89d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rajesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sigmarajesh&bg_color=000000&color=ffffff&line=00ffff&point=00a89d&area=true&hide_border=true)](https://github.com/sigmarajesh/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
