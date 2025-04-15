@@ -86,7 +86,7 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 # ⚡Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyamshorrf&bg_color=000000&color=ffffff&line=00ffff&point=00a89d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sigmarajesh&bg_color=000000&color=ffffff&line=00ffff&point=00a89d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
